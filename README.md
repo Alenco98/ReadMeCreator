@@ -10,20 +10,23 @@ A simple JS program that allows you to create a ReadMe File
   * [Tests](#Tests)
   * [Question](#Question)
 ## Installation
-To install necessary Dependencies, Run the following Command line :
+To install necessary Dependencies, enable the following packages :
 '''
-Simply enable 'npm i inquirere@8.2.4' and it will work
-'''
+Inquirer package, MySQL2 package, and the console.table package
+
 ## Usage
-You can use it to create a README file for your project
+You can use it to traack your employees 
 ## Contributing 
 I made the program
+
  ## Tests
+ 
  In order to test This Application run the command line :
  '''
- input node index.js
+node index.js
  '''
  ## Question
+ 
 My Contact :
 <img src="https://github.com/Alenco98.png" alt="GitHub Profile Pic" width="125" height="125">
 - Github Account :  [Alenco98](https://github.com/Alenco98)
